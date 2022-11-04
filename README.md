@@ -3,7 +3,7 @@ The best Crypto Tracker for your Bitcoin and other crypto. In this App user Can 
 With over 100 coins supported, Delta offers the widest range of crypto coins, including Bitcoin, Ethereum, XRP, Bitcoin Cash, Bitcoin SV, Litecoin, Binance Coin, EOS, Tezos and many more!
 
 ## Home Page
-<img alt="Crypto Bazaar" src="https://user-images.githubusercontent.com/69608939/199779912-1524ea49-0603-49ec-abed-99e92f6e469e.png" height="500px" width="80%"/>
+<img alt="Crypto Bazaar" src="https://user-images.githubusercontent.com/69608939/199779912-1524ea49-0603-49ec-abed-99e92f6e469e.png"  width="80%"/>
 
 ## Details Page user Dashboard
 <img alt="Crypto Bazaar" src="https://user-images.githubusercontent.com/69608939/199781209-1d2be64d-1f21-45f0-87c7-2cb9c539597b.png" height="80%" width="80%"/>
